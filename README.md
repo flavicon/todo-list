@@ -1,5 +1,5 @@
-<div style="text-align: center">
-	<img src="public/logo.svg" style="width: 20%">
+<div align: "center">
+	<img src="public/logo.svg" style="width: 50%">
 </div>
 
 ## Desafio proposto na trilha React do ignite (Rockeatseat :purple_heart:)

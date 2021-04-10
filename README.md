@@ -17,7 +17,7 @@
 
 ##### PS.: Caso sua máquina não possua o nodejs ou o git você pode estar realizando o download do instalador pelo site oficial: 
 
-NodeJS: https://nodejs.org/en/download/ | Git: https://git-scm.com/downloads
+##### NodeJS: https://nodejs.org/en/download/ | Git: https://git-scm.com/downloads
 
 ### :octocat: Para clonar o repositório utilize o seguinte comando no terminal:
 

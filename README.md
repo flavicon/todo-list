@@ -1,8 +1,10 @@
 <div style="text-align: center">
 	<img src="public/logo.svg" style="width: 20%">
 </div>
+
 ## Desafio proposto na trilha React do ignite (Rockeatseat :purple_heart:)
 
+<br>
 <img src="public/assets/todo-list-1.png">
 <br/>
 <img src="public/assets/todo-list-2.png">

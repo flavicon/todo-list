@@ -3,7 +3,7 @@
 ### Aplicação de um todo list utilizado para realizar anotações simples, a app permite criar, editar e remover anotação.
 ### :pushpin: Ideia é criar um simples app no estilo todo list, para aprimorar os conhecimentos. 
 ### Principais tecnologias utilizadas: 
->#### Typescript, ReactJS e Sass. :rocket:
+>#### ![](https://img.shields.io/badge/typescript-d6d6d6?style=for-the-badge&logo=typescript&logoColor=blue) ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![](https://img.shields.io/badge/sass-gray?style=for-the-badge&logo=sass&logoColor=darkpink). :rocket:
 
 <br>
 <img src="public/assets/todo-list-1.png">

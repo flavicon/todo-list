@@ -1,6 +1,6 @@
 <img src="public/logo.svg" style="width: 120%">
 
-### Aplicação de um todo-list utilizado para realizar anotações simples, a app permite criar, editar e remover anotação.
+### Aplicação de um todo list utilizado para realizar anotações simples, a app permite criar, editar e remover anotação.
 ### :pushpin: Ideia é criar um simples app no estilo todo list, para aprimorar os conhecimentos. 
 ### Principais tecnologias utilizadas: 
 >#### Typescript, ReactJS e Sass. :rocket:

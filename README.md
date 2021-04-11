@@ -1,6 +1,9 @@
 <img src="public/logo.svg" style="width: 120%">
 
-## Desafio proposto na trilha React do ignite (Rockeatseat :purple_heart:)
+### Aplicação de um todo-list utilizado para realizar anotações simples, a app permite criar, editar e remover anotação.
+### :pushpin: Ideia é criar um simples app no estilo todo list, para aprimorar os conhecimentos. 
+### Principais tecnologias utilizadas: 
+>#### Typescript, ReactJS e Sass. :rocket:
 
 <br>
 <img src="public/assets/todo-list-1.png">
@@ -9,9 +12,6 @@
 
 <hr/>
 
-### :pushpin: Ideia é criar um simples app no estilo todo list, para aprimorar os conhecimentos. 
-
-### Principais tecnologias utilizadas Typescript, ReactJS e Sass. :rocket:
 
 ### Para executar o projeto basta clonar o repositório em uma máquina que possua o nodejs, npm e git instalado.
 
